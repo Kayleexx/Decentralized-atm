@@ -47,9 +47,10 @@ http://localhost:3000
 4. Click the "Deposit" or "Withdraw" button.
 
 ## Contributing
-
 Contributions to this repository are not accepted as it is for personal assignments. However, if you have suggestions or feedback, feel free to open an issue.
 
-## License
+## Author
+Mitali Sinha
 
+## License
 This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code for personal and educational purposes.
